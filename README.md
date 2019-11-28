@@ -4,6 +4,16 @@
 # API Documentation
 # -----------------
 
+First! create the folder structure for data storage:
+In the same folder as index.js create the following folders
+.data/
+Then inside .data/
+users/
+tokens/
+orders/
+carts/
+
+
 ### **User Creation**
 ### **-------------**
 - Method: POST
